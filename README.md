@@ -1,6 +1,6 @@
 # my_coding Introduce [폴더별]
 
-Coding_Test
+## Coding_Test
 1. Greedy
 2. Implements
 3. DFS/BFS
@@ -12,9 +12,8 @@ Coding_Test
 9. 2020년 상반기 삼성전자 기출문제
 
 이것이 코딩테스트다 with 파이썬 참고
-#
 
-Backjoon Online JUDGE
+## Backjoon Online JUDGE
 
 -> 각 문제 번호별 폴더에 문제 및 코드 기술
 
