@@ -1,4 +1,4 @@
-# my_coding Introduce [폴더별]
+# Coding Introduce [폴더별]
 
 ## 1. Backjoon Online JUDGE
 
